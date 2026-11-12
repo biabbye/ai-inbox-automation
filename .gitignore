@@ -11,6 +11,10 @@ __pycache__/
 .env.*
 !.env.example
 
+# Local learning and design notes
+docs/DESIGN.md
+docs/PROGRESS.md
+
 # Node.js
 node_modules/
 .next/
